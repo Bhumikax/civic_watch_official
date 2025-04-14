@@ -83,10 +83,4 @@ Inspired by real-life incidents involving unattended complaints and unsafe worki
 
 ---
 
-## 📫 Contact
-
-For any questions or contributions, feel free to reach out via [manjubodi123@example.com] or open a GitHub issue.
-
----
-
 > ⚡ *Let’s use tech to build safer and more responsive communities.*
